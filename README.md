@@ -12,3 +12,5 @@ Flow:
 7. click on "Load"
 
 :)
+
+inspired by https://www.hanselman.com/blog/introducing-workspace-reloader-a-visual-studio-addin-to-save-your-open-files-across-project-reloads
